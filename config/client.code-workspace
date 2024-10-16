@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../client"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../middleware"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../routes"
+		}
+	]
+}
